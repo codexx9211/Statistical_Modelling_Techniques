@@ -22,4 +22,4 @@ for(l in 1:100)
   W[l]=(k*100/1000)
 }
 print(u/1000)   #The probability that test statistic lie within the 99% confidence interval, is simply 99%.
-hist(W,breaks=10) #The central limit theoam.
+hist(W,breaks=10)  #The central limit theoam.
